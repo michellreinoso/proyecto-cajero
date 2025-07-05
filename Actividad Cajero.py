@@ -90,5 +90,5 @@ while True:
     else:
         print('Error: no seleccionó una opción válida')
         
-print('Adios?')
-print('rama alternativo')
+
+
